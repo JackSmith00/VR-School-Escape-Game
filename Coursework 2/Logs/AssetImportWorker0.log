@@ -1,0 +1,107 @@
+Using pre-set license
+
+ COMMAND LINE ARGUMENTS:
+/Applications/Unity/Unity.app/Contents/MacOS/Unity
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker0
+-projectPath
+/Users/Jack/Documents/UNI/Games Engines/Coursework 2/Coursework 2
+-logFile
+Logs/AssetImportWorker0.log
+-srvPort
+51453
+Successfully changed project path to: /Users/Jack/Documents/UNI/Games Engines/Coursework 2/Coursework 2
+/Users/Jack/Documents/UNI/Games Engines/Coursework 2/Coursework 2
+Using Asset Import Pipeline V2.
+Refreshing native plugins compatible for Editor in 201.31 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 2020.3.8f1 (507919d4fff5)
+[Subsystems] Discovering subsystems at path /Applications/Unity/Unity.app/Contents/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path /Users/Jack/Documents/UNI/Games Engines/Coursework 2/Coursework 2/Assets
+GfxDevice: creating device client; threaded=0
+2022-01-07 11:22:07.193 Unity[3152:48844] (null) preferred device: Apple M1 (high power)
+2022-01-07 11:22:07.193 Unity[3152:48844] Metal devices available: 1
+2022-01-07 11:22:07.193 Unity[3152:48844] 0: Apple M1 (high power)
+2022-01-07 11:22:07.193 Unity[3152:48844] Using device Apple M1 (high power)
+Initializing Metal device caps: Apple M1
+Initialize mono
+Mono path[0] = '/Applications/Unity/Unity.app/Contents/Managed'
+Mono path[1] = '/Applications/Unity/Unity.app/Contents/MonoBleedingEdge/lib/mono/unityjit'
+Mono config path = '/Applications/Unity/Unity.app/Contents/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56152
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: /Applications/Unity/Unity.app/Contents/PlaybackEngines/MacStandaloneSupport/UnityEditor.OSXStandalone.Extensions.dll
+Registered in 0.001216 seconds.
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 125.92 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  2.328 seconds
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.006815 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image /Users/Jack/Documents/UNI/Games Engines/Coursework 2/Coursework 2/Library/PackageCache/com.unity.visualscripting@1.7.5/Editor/VisualScripting.Core/Dependencies/YamlDotNet/Unity.VisualScripting.YamlDotNet.dll
+Symbol file LoadedFromMemory doesn't match image /Users/Jack/Documents/UNI/Games Engines/Coursework 2/Coursework 2/Library/PackageCache/com.unity.visualscripting@1.7.5/Editor/VisualScripting.Core/Dependencies/DotNetZip/Unity.VisualScripting.IonicZip.dll
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 1.09 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  2.901 seconds
+Platform modules already initialized, skipping
+========================================================================
+Worker process is ready to serve import requests
+Launching external process: /Applications/Unity/Unity.app/Contents/Tools/UnityShaderCompiler
+Launched and connected shader compiler UnityShaderCompiler after 0.14 seconds
+Refreshing native plugins compatible for Editor in 1.18 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 3715 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 293.6 MB.
+System memory in use after: 293.3 MB.
+
+Unloading 105 unused Assets to reduce memory usage. Loaded Objects now: 4150.
+Total: 8.166375 ms (FindLiveObjects: 0.325333 ms CreateObjectMapping: 0.103541 ms MarkObjects: 6.972167 ms  DeleteObjects: 0.763583 ms)
+
+========================================================================
+Received Import Request.
+  path: Assets/Custom Assets/References/Chris References.cs
+  artifactKey: Guid(fa29550cd931442ecad690148a0e5912) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Custom Assets/References/Chris References.cs using Guid(fa29550cd931442ecad690148a0e5912) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bb0eb22083900f1f702de230b4cc9cc4') in 0.314427 seconds
+  Import took 0.322292 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000294 seconds.
+  path: Assets/Custom Assets/References/Jack References.cs
+  artifactKey: Guid(cc26a03364c1d4e8bb5ac820a830e5de) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Custom Assets/References/Jack References.cs using Guid(cc26a03364c1d4e8bb5ac820a830e5de) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '078736ea4d91d0a580c8083ed7f9e64a') in 0.002248 seconds
+  Import took 0.008120 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000222 seconds.
+  path: Assets/Custom Assets/References/Ricky References.cs
+  artifactKey: Guid(314f01ee02d2247b7a036a1a37bba725) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Custom Assets/References/Ricky References.cs using Guid(314f01ee02d2247b7a036a1a37bba725) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd7bd9c444c6f3960fbd692d5cb35ab3d') in 0.001899 seconds
+  Import took 0.007250 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000218 seconds.
+  path: Assets/Custom Assets/References/Ross References.cs
+  artifactKey: Guid(f6511062474074fb592516bed075cb77) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Custom Assets/References/Ross References.cs using Guid(f6511062474074fb592516bed075cb77) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '82d8339970a38d25e8ba42608595a29c') in 0.002109 seconds
+  Import took 0.006858 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000247 seconds.
+  path: Assets/Custom Assets/References/Parsa References.cs
+  artifactKey: Guid(51d5fc119ea204c6f8c50151e3c95a7b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Custom Assets/References/Parsa References.cs using Guid(51d5fc119ea204c6f8c50151e3c95a7b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e281e874e6776c757230cc64b248bb62') in 0.001763 seconds
+  Import took 0.006936 seconds .
+
