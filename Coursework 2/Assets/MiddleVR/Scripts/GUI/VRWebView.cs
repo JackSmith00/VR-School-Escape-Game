@@ -532,7 +532,7 @@ public class VRWebView : MonoBehaviour
 #if VRWEBVIEW_UNITY_FREE
                     m_PixelsHandle.Free();
 #endif
-                    //m_Texture.Reinitialize((int)format.GetWidth(), (int)format.GetHeight());
+                    m_Texture.Resize((int)format.GetWidth(), (int)format.GetHeight());
                     m_Texture.Apply(false, false);
 #if VRWEBVIEW_UNITY_FREE
                     m_PixelsHandle.Free();
@@ -644,7 +644,7 @@ public class VRWebView : MonoBehaviour
         Vector3 p1 = transform.TransformPoint(m_RaycastMeshVertices[i1]);
         Vector3 p2 = transform.TransformPoint(m_RaycastMeshVertices[i2]);
 
-        // Mï¿½llerï¿½Trumbore intersection algorithm
+        // Möller–Trumbore intersection algorithm
         // http://en.wikipedia.org/wiki/M%C3%B6ller%E2%80%93Trumbore_intersection_algorithm
 
         // edge 1

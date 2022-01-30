@@ -125,16 +125,19 @@ public class VRNavigationCollision : MonoBehaviour {
         RaycastHit hit;
         if( Physics.SphereCast( iStartPosition, CollisionDistance, iMovement.normalized, out hit, iMovement.magnitude ) )
         {
-            // Compute reaction vector
-            Vector3 collisionNormal = hit.normal;
-            if (!m_IsFlying)
+            if (!hit.collider.isTrigger)
             {
-                collisionNormal.y = 0.0f;
-            }
+                // Compute reaction vector
+                Vector3 collisionNormal = hit.normal;
+                if (!m_IsFlying)
+                {
+                    collisionNormal.y = 0.0f;
+                }
 
-            if( Vector3.Dot( iMovement, collisionNormal ) < 0.0f )
-            {
-                reactionMovement = -Vector3.Project( iMovement, collisionNormal.normalized );
+                if (Vector3.Dot(iMovement, collisionNormal) < 0.0f)
+                {
+                    reactionMovement = -Vector3.Project(iMovement, collisionNormal.normalized);
+                }
             }
         }
 

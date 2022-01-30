@@ -13,7 +13,7 @@ public class PianoNoteTrigger : MonoBehaviour
         audioSource = GetComponent<AudioSource>(); 
     }
 
-    private void OnTriggerEnter(Collider other)
+    public void VRAction()
     {
         audioSource.Play();
         GetComponentInParent<MelodyProgressTracker>().NotePlayed(noteStringValue);

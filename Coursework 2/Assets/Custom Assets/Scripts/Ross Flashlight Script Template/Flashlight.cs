@@ -38,7 +38,7 @@ public class Flashlight : MonoBehaviour
                 FlashlightActive = false;
             }
         }
-        //Referenced code - https://www.youtube.com/watch?v=vRKrg9Ku8Aw
+        //Referenced code - The reference provided was used / modify to help in the creation of the script. This code will be referenced within the report https://www.youtube.com/watch?v=vRKrg9Ku8Aw
 
 
     }

@@ -15,10 +15,10 @@ public class EndGameReveal : MonoBehaviour
 
     private void EndGame()
     {
-        Application.Quit(); // https://forum.unity.com/threads/ending-game.39709/
+        Application.Quit(); // The reference provided was used / modify to help in the creation of the script. This code will be referenced within the report https://forum.unity.com/threads/ending-game.39709/
     }
 
-    // https://answers.unity.com/questions/796881/c-how-can-i-let-something-happen-after-a-small-del.html
+    // The reference provided was used / modify to help in the creation of the script. This code will be referenced within the report https://answers.unity.com/questions/796881/c-how-can-i-let-something-happen-after-a-small-del.html
     IEnumerator ExecuteAfterTime(float time)
     {
         yield return new WaitForSeconds(time);

@@ -1,6 +1,7 @@
 m_ProjectFiles:
   m_ManifestFileStatus:
-    m_FilePath: /Users/Jack/Documents/UNI/Games Engines/Coursework 2/Coursework 2/Packages/manifest.json
+    m_FilePath: /Users/Jack/Documents/UNI/Games Engines/Coursework 2/VR-School-Escape-Game/Coursework
+      2/Packages/manifest.json
     m_PathExists: 1
     m_ContentTrackingEnabled: 1
     m_ModificationDate:
@@ -8,7 +9,8 @@ m_ProjectFiles:
       ticks: 637740590060000000
     m_Hash: 3916530144
   m_LockFileStatus:
-    m_FilePath: /Users/Jack/Documents/UNI/Games Engines/Coursework 2/Coursework 2/Packages/packages-lock.json
+    m_FilePath: /Users/Jack/Documents/UNI/Games Engines/Coursework 2/VR-School-Escape-Game/Coursework
+      2/Packages/packages-lock.json
     m_PathExists: 1
     m_ContentTrackingEnabled: 1
     m_ModificationDate:
@@ -25,7 +27,7 @@ m_PackageAssets:
       isDirectDependency: 1
       version: 1.15.1
       source: 1
-      resolvedPath: /Users/Jack/Documents/UNI/Games Engines/Coursework 2/Coursework
+      resolvedPath: /Users/Jack/Documents/UNI/Games Engines/Coursework 2/VR-School-Escape-Game/Coursework
         2/Library/PackageCache/com.unity.collab-proxy@1.15.1
       assetPath: Packages/com.unity.collab-proxy
       name: com.unity.collab-proxy
@@ -73,8 +75,14 @@ m_PackageAssets:
         - 1.13.5
         - 1.14.1
         - 1.14.4
+        - 1.14.7
+        - 1.14.9
+        - 1.14.12
         - 1.15.1
         - 1.15.4
+        - 1.15.7
+        - 1.15.9
+        - 1.15.12
         - 2.0.0-preview.6
         - 2.0.0-preview.8
         - 2.0.0-preview.15
@@ -95,6 +103,9 @@ m_PackageAssets:
         - 1.12.5
         - 1.14.1
         - 1.14.4
+        - 1.14.7
+        - 1.14.9
+        - 1.14.12
         - 2.0.0-preview.6
         - 2.0.0-preview.8
         - 2.0.0-preview.15
@@ -157,7 +168,7 @@ m_PackageAssets:
       isDirectDependency: 1
       version: 3.0.7
       source: 1
-      resolvedPath: /Users/Jack/Documents/UNI/Games Engines/Coursework 2/Coursework
+      resolvedPath: /Users/Jack/Documents/UNI/Games Engines/Coursework 2/VR-School-Escape-Game/Coursework
         2/Library/PackageCache/com.unity.ide.rider@3.0.7
       assetPath: Packages/com.unity.ide.rider
       name: com.unity.ide.rider
@@ -200,6 +211,9 @@ m_PackageAssets:
         - 3.0.5
         - 3.0.6
         - 3.0.7
+        - 3.0.9
+        - 3.0.10
+        - 3.0.12
         compatible:
         - 1.0.2
         - 1.0.6
@@ -226,6 +240,9 @@ m_PackageAssets:
         - 3.0.5
         - 3.0.6
         - 3.0.7
+        - 3.0.9
+        - 3.0.10
+        - 3.0.12
         verified: 2.0.7
       dependencies:
       - name: com.unity.ext.nunit
@@ -259,7 +276,7 @@ m_PackageAssets:
       isDirectDependency: 1
       version: 2.0.12
       source: 1
-      resolvedPath: /Users/Jack/Documents/UNI/Games Engines/Coursework 2/Coursework
+      resolvedPath: /Users/Jack/Documents/UNI/Games Engines/Coursework 2/VR-School-Escape-Game/Coursework
         2/Library/PackageCache/com.unity.ide.visualstudio@2.0.12
       assetPath: Packages/com.unity.ide.visualstudio
       name: com.unity.ide.visualstudio
@@ -293,6 +310,7 @@ m_PackageAssets:
         - 2.0.9
         - 2.0.11
         - 2.0.12
+        - 2.0.14
         compatible:
         - 1.0.2
         - 1.0.3
@@ -310,7 +328,8 @@ m_PackageAssets:
         - 2.0.9
         - 2.0.11
         - 2.0.12
-        verified: 2.0.12
+        - 2.0.14
+        verified: 2.0.14
       dependencies:
       - name: com.unity.test-framework
         version: 1.1.9
@@ -349,7 +368,7 @@ m_PackageAssets:
       isDirectDependency: 1
       version: 1.2.4
       source: 1
-      resolvedPath: /Users/Jack/Documents/UNI/Games Engines/Coursework 2/Coursework
+      resolvedPath: /Users/Jack/Documents/UNI/Games Engines/Coursework 2/VR-School-Escape-Game/Coursework
         2/Library/PackageCache/com.unity.ide.vscode@1.2.4
       assetPath: Packages/com.unity.ide.vscode
       name: com.unity.ide.vscode
@@ -421,7 +440,7 @@ m_PackageAssets:
       isDirectDependency: 1
       version: 5.0.3
       source: 1
-      resolvedPath: /Users/Jack/Documents/UNI/Games Engines/Coursework 2/Coursework
+      resolvedPath: /Users/Jack/Documents/UNI/Games Engines/Coursework 2/VR-School-Escape-Game/Coursework
         2/Library/PackageCache/com.unity.probuilder@5.0.3
       assetPath: Packages/com.unity.probuilder
       name: com.unity.probuilder
@@ -575,7 +594,7 @@ m_PackageAssets:
       isDirectDependency: 1
       version: 3.0.3-preview.6
       source: 1
-      resolvedPath: /Users/Jack/Documents/UNI/Games Engines/Coursework 2/Coursework
+      resolvedPath: /Users/Jack/Documents/UNI/Games Engines/Coursework 2/VR-School-Escape-Game/Coursework
         2/Library/PackageCache/com.unity.progrids@3.0.3-preview.6
       assetPath: Packages/com.unity.progrids
       name: com.unity.progrids
@@ -653,7 +672,7 @@ m_PackageAssets:
       isDirectDependency: 1
       version: 1.1.29
       source: 1
-      resolvedPath: /Users/Jack/Documents/UNI/Games Engines/Coursework 2/Coursework
+      resolvedPath: /Users/Jack/Documents/UNI/Games Engines/Coursework 2/VR-School-Escape-Game/Coursework
         2/Library/PackageCache/com.unity.test-framework@1.1.29
       assetPath: Packages/com.unity.test-framework
       name: com.unity.test-framework
@@ -701,12 +720,16 @@ m_PackageAssets:
         - 1.1.27
         - 1.1.29
         - 1.1.30
+        - 2.0.1-pre.12
+        - 2.0.1-pre.18
         compatible:
         - 1.1.24
         - 1.1.26
         - 1.1.27
         - 1.1.29
         - 1.1.30
+        - 2.0.1-pre.12
+        - 2.0.1-pre.18
         verified: 1.1.30
       dependencies:
       - name: com.unity.ext.nunit
@@ -750,7 +773,7 @@ m_PackageAssets:
       isDirectDependency: 1
       version: 3.0.6
       source: 1
-      resolvedPath: /Users/Jack/Documents/UNI/Games Engines/Coursework 2/Coursework
+      resolvedPath: /Users/Jack/Documents/UNI/Games Engines/Coursework 2/VR-School-Escape-Game/Coursework
         2/Library/PackageCache/com.unity.textmeshpro@3.0.6
       assetPath: Packages/com.unity.textmeshpro
       name: com.unity.textmeshpro
@@ -918,7 +941,7 @@ m_PackageAssets:
       isDirectDependency: 1
       version: 1.6.2
       source: 1
-      resolvedPath: /Users/Jack/Documents/UNI/Games Engines/Coursework 2/Coursework
+      resolvedPath: /Users/Jack/Documents/UNI/Games Engines/Coursework 2/VR-School-Escape-Game/Coursework
         2/Library/PackageCache/com.unity.timeline@1.6.2
       assetPath: Packages/com.unity.timeline
       name: com.unity.timeline
@@ -1002,7 +1025,9 @@ m_PackageAssets:
         - 1.6.1
         - 1.6.2
         - 1.6.3
+        - 1.6.4
         - 1.7.0-pre.1
+        - 1.7.0-pre.2
         compatible:
         - 1.4.7
         - 1.4.8
@@ -1027,7 +1052,9 @@ m_PackageAssets:
         - 1.6.1
         - 1.6.2
         - 1.6.3
+        - 1.6.4
         - 1.7.0-pre.1
+        - 1.7.0-pre.2
         verified: 1.4.8
       dependencies:
       - name: com.unity.modules.director
@@ -1141,7 +1168,7 @@ m_PackageAssets:
       isDirectDependency: 1
       version: 1.7.5
       source: 1
-      resolvedPath: /Users/Jack/Documents/UNI/Games Engines/Coursework 2/Coursework
+      resolvedPath: /Users/Jack/Documents/UNI/Games Engines/Coursework 2/VR-School-Escape-Game/Coursework
         2/Library/PackageCache/com.unity.visualscripting@1.7.5
       assetPath: Packages/com.unity.visualscripting
       name: com.unity.visualscripting
@@ -2967,7 +2994,7 @@ m_PackageAssets:
       isDirectDependency: 0
       version: 1.0.6
       source: 1
-      resolvedPath: /Users/Jack/Documents/UNI/Games Engines/Coursework 2/Coursework
+      resolvedPath: /Users/Jack/Documents/UNI/Games Engines/Coursework 2/VR-School-Escape-Game/Coursework
         2/Library/PackageCache/com.unity.ext.nunit@1.0.6
       assetPath: Packages/com.unity.ext.nunit
       name: com.unity.ext.nunit
@@ -2990,6 +3017,7 @@ m_PackageAssets:
         - 1.0.0
         - 1.0.5
         - 1.0.6
+        - 2.0.2
         compatible:
         - 0.1.5-preview
         - 0.1.6-preview
@@ -2997,6 +3025,7 @@ m_PackageAssets:
         - 1.0.0
         - 1.0.5
         - 1.0.6
+        - 2.0.2
         verified: 1.0.6
       dependencies: []
       resolvedDependencies: []
@@ -3029,7 +3058,7 @@ m_PackageAssets:
       isDirectDependency: 0
       version: 1.0.3
       source: 1
-      resolvedPath: /Users/Jack/Documents/UNI/Games Engines/Coursework 2/Coursework
+      resolvedPath: /Users/Jack/Documents/UNI/Games Engines/Coursework 2/VR-School-Escape-Game/Coursework
         2/Library/PackageCache/com.unity.settings-manager@1.0.3
       assetPath: Packages/com.unity.settings-manager
       name: com.unity.settings-manager
@@ -3053,6 +3082,7 @@ m_PackageAssets:
         - 1.0.2
         - 1.0.3
         - 2.0.0
+        - 2.0.1
         compatible:
         - 0.1.0-preview.4
         - 0.1.0-preview.8
@@ -3061,6 +3091,7 @@ m_PackageAssets:
         - 1.0.2
         - 1.0.3
         - 2.0.0
+        - 2.0.1
         verified: 1.0.3
       dependencies: []
       resolvedDependencies: []
@@ -3090,7 +3121,7 @@ m_PackageAssets:
       isDirectDependency: 0
       version: 2.0.0
       source: 1
-      resolvedPath: /Users/Jack/Documents/UNI/Games Engines/Coursework 2/Coursework
+      resolvedPath: /Users/Jack/Documents/UNI/Games Engines/Coursework 2/VR-School-Escape-Game/Coursework
         2/Library/PackageCache/com.unity.nuget.newtonsoft-json@2.0.0
       assetPath: Packages/com.unity.nuget.newtonsoft-json
       name: com.unity.nuget.newtonsoft-json
@@ -3167,7 +3198,7 @@ m_PackageAssets:
       isDirectDependency: 0
       version: 1.0.1
       source: 1
-      resolvedPath: /Users/Jack/Documents/UNI/Games Engines/Coursework 2/Coursework
+      resolvedPath: /Users/Jack/Documents/UNI/Games Engines/Coursework 2/VR-School-Escape-Game/Coursework
         2/Library/PackageCache/com.unity.services.core@1.0.1
       assetPath: Packages/com.unity.services.core
       name: com.unity.services.core
@@ -3193,6 +3224,7 @@ m_PackageAssets:
         - 1.1.0-pre.9
         - 1.1.0-pre.10
         - 1.1.0-pre.11
+        - 1.1.0-pre.41
         compatible:
         - 1.0.1
         - 1.1.0-pre.7
@@ -3200,6 +3232,7 @@ m_PackageAssets:
         - 1.1.0-pre.9
         - 1.1.0-pre.10
         - 1.1.0-pre.11
+        - 1.1.0-pre.41
         verified: 
       dependencies:
       - name: com.unity.modules.unitywebrequest
@@ -3230,5 +3263,6 @@ m_PackageAssets:
         path: 
   m_LocalPackages:
     m_LocalFileStatus: []
-m_ProjectPath: /Users/Jack/Documents/UNI/Games Engines/Coursework 2/Coursework 2/Packages
+m_ProjectPath: /Users/Jack/Documents/UNI/Games Engines/Coursework 2/VR-School-Escape-Game/Coursework
+  2/Packages
 m_EditorVersion: 2020.3.8f1 (507919d4fff5)
